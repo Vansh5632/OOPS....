@@ -1,0 +1,4 @@
+the building block of c++ that leads to object-riented programming is a class 
+user defined there own data-type in which they can have there own datatypes members and members function
+Data members are the data variables and member functions are the functions used to manipulate these variables together these data members and member functions define the propertie and behavior of the objects in class
+Object is an identifiable entity with some charactersitics and behavior an Object is an instance of Class .When a class is defined, no memory us allocated but when it is instantiated memory us allocated 
